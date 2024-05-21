@@ -29,3 +29,5 @@ scratch
 # Symbolic links
 hcana
 libHallC.so*
+REPORT_OUTPUT
+CAFE_OUTPUT
